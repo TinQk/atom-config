@@ -1,0 +1,23 @@
+"*":
+  core:
+    closeDeletedFileTabs: true
+    disabledPackages: [
+      "spell-check"
+    ]
+    packagesWithKeymapsDisabled: []
+    projectHome: "/home/quentin/dev/projects"
+    telemetryConsent: "limited"
+    warnOnLargeFileLimit: 10
+  editor:
+    fontSize: 12
+    scrollPastEnd: true
+    showIndentGuide: true
+    showInvisibles: true
+    softWrapAtPreferredLineLength: true
+  "exception-reporting":
+    userId: "ace5d896-e5e1-4673-ad9e-89c7f5c520c8"
+  "linter-ui-default":
+    panelHeight: 300
+  "spell-check": {}
+  welcome:
+    showOnStartup: false
